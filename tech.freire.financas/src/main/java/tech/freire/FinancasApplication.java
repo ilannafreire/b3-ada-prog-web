@@ -1,4 +1,4 @@
-package tech.freire.financas;
+package tech.freire;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
